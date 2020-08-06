@@ -3,7 +3,7 @@
 
 
 ชื่อโครงงาน	ภาษาไทย : ตรวจจับอารมรณ์ผ่านทางใบหน้า
-	      English :  Facial Expression Recognition
+English :  Facial Expression Recognition
 	      
 ชื่อนักศึกษา นาย ณัฐดนัย จำปาศรี 
 
